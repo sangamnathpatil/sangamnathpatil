@@ -10,8 +10,6 @@
 **Electronics & Telecommunication Engineering Graduate (2026)**  
 **Verilog HDL • RTL Design • Digital Electronics • Functional Verification**
 
-[GIT-HUB](https://github.com/sangamnathpatil)    
-[LINKEDIN](https://www.linkedin.com/in/sangamnath-patil-01003b257/)
 </div>
 
 ---
@@ -26,7 +24,7 @@ I'm an **Electronics & Telecommunication Engineering graduate** passionate about
 - 🎯 **Next goals:** I2C, APB/AHB/AXI fundamentals, more structured verification, and SoC peripheral integration.
 - 💼 **Career goal:** Entry-level **RTL Design / Design Verification / VLSI Design Engineer** roles.
 - ⚡ **What I enjoy:** Designing hardware one module at a time and validating its behavior with testbenches.
-- 📫 **How to reach me:** [GIT-HUB](https://github.com/sangamnathpatil) | [LINKEDIN](https://www.linkedin.com/in/sangamnath-patil-01003b257/)
+- 📫 **How to reach me:** [LINKEDIN](https://www.linkedin.com/in/sangamnath-patil-01003b257/) | [g-mail](sangampatil302@gmail.com)
 
 ---
 
