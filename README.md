@@ -10,8 +10,7 @@
 **Electronics & Telecommunication Engineering Graduate (2026)**  
 **Verilog HDL • RTL Design • Digital Electronics • Functional Verification**
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=0e75b6)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
+[![Profile views](https://github.com/sangamnathpatil)]
 
 </div>
 
