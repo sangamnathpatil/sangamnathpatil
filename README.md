@@ -10,6 +10,8 @@
 **Electronics & Telecommunication Engineering Graduate (2026)**  
 **Verilog HDL • RTL Design • Digital Electronics • Functional Verification**
 
+<div>
+
 [GIT-HUB](https://github.com/sangamnathpatil)    
 
 [LINKEDIN](https://www.linkedin.com/in/sangamnath-patil-01003b257/)
