@@ -10,8 +10,6 @@
 **Electronics & Telecommunication Engineering Graduate (2026)**  
 **Verilog HDL • RTL Design • Digital Electronics • Functional Verification**
 
-[![Profile views](https://github.com/sangamnathpatil)]
-
 </div>
 
 ---
@@ -56,13 +54,13 @@ I'm an **Electronics & Telecommunication Engineering graduate** passionate about
 
 | Project | Design / Verification Highlights |
 | :--- | :--- |
-| **[UART TX & RX Integration](https://github.com/YOUR_GITHUB_USERNAME/uart-rtl-verilog)** | Parameterized UART transmitter, FSM-based receiver, synchronization, and TX-to-RX loopback verification using Verilog testbenches. |
-| **[Synchronous FIFO (8-bit × 16)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)** | FIFO memory, read/write pointers, occupancy counter, full/empty detection, and read/write operation testing. |
-| **[4-Road Traffic Light Controller](https://github.com/YOUR_GITHUB_USERNAME/traffic_light_controller)** | Eight-state FSM controlling four roads with timed green/yellow transitions and RTL simulation. |
-| **[4-bit ALU](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)** | ADD, SUB, AND, OR, and XOR operations with status flags and functional testbench checks. |
-| **[Digital Design Fundamentals](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)** | Adders, MUX/DEMUX, encoders/decoders, comparators, flip-flops, latches, counters, and shift registers. |
+| **[UART TX & RX Integration](https://github.com/sangamnathpatil/uart-rtl-verilog)** | Parameterized UART transmitter, FSM-based receiver, synchronization, and TX-to-RX loopback verification using Verilog testbenches. |
+| **[Synchronous FIFO (8-bit × 16)](https://github.com/sangamnathpatil/synchronous-fifo-verilog)** | FIFO memory, read/write pointers, occupancy counter, full/empty detection, and read/write operation testing. |
+| **[4-Road Traffic Light Controller](https://github.com/sangamnathpatil/rtl-traffic-light-controller)** | Eight-state FSM controlling four roads with timed green/yellow transitions and RTL simulation. |
+| **[4-bit ALU](https://github.com/sangamnathpatil/4-bit-ALU-Verilog)** | ADD, SUB, AND, OR, and XOR operations with status flags and functional testbench checks. |
+| **[Digital Design Fundamentals](https://github.com/sangamnathpatil/Verilog-Combinational-Circuits)** | Adders, MUX/DEMUX, encoders/decoders, comparators, flip-flops, latches, counters, and shift registers. |
 
-📂 **[Explore all of my repositories →](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)**
+📂 **[Explore all of my repositories →](https://github.com/sangamnathpatil?tab=repositories)**
 
 ---
 
@@ -84,37 +82,13 @@ VLSI / RTL Design & Verification
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Sangamnath's GitHub stats](https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
-## 📈 Contribution Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamnath-patil-01003b257/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangampatil302@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangamnathpatil)
 
 ---
 
